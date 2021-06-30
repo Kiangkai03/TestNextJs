@@ -11,3 +11,5 @@ git branch -M main
 git remote add origin https://github.com/Kiangkai03/TestNextJs.git
 
 git push -u origin main คำสั่งในการ uplong
+
+end
